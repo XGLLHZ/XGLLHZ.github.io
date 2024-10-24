@@ -1,3 +1,21 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: XGLLHZ
+description: That’s like the wind, loveless and free!
+url: "https://xgllhz.gihub.io"
+author:
+  name: Hao Guo
+  email: guohaopp@163.com
+  avatar: /path/to/avatar.jpg
+
+nav:
+  - title: 首页
+    url: /
+  - title: 关于
+    url: /about/
+  - title: 归档
+    url: /archives/
+
+social:
+  - title: GitHub
+    url: https://github.com/XGLLHZ
+  - title: Twitter
+    url: https://twitter.com/XGLLHZ
